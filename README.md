@@ -2,7 +2,7 @@
 
 SebastianA7420@hstat.org
 
-[Personal Site:] (https://sites.google.com/a/hstat.org/sebastiana7420sep11) .
+[My Personal Site](https://sites.google.com/a/hstat.org/sebastiana7420sep11) 
 
 *High School of Telecommunication Arts and Technology*
 
@@ -23,4 +23,4 @@ I was born May 31, 2001. I was born in Brooklyn, New York. I enjoy the color bla
 *_Favorite Colors:_*
 * Blue
 * Green
-*Red
+* Red
