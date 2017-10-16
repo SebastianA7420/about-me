@@ -9,7 +9,7 @@ SebastianA7420@hstat.org
 I was born May 31, 2001. I was born in Brooklyn, New York. I enjoy the color black. I enjoy reading...
 
 
-##### Schedule:
+### Schedule:
         
 1. English
 2. Gym
@@ -20,7 +20,7 @@ I was born May 31, 2001. I was born in Brooklyn, New York. I enjoy the color bla
 7. SEP
 8. US history
 
-*_Favorite Colors:_*
-* Blue
+### *_Favorite Colors:_*
+* Yellow 
 * Green
-* Red
+* Purple
